@@ -1,0 +1,54 @@
+@import url('https://fonts.googleapis.com/css2?family=Kumar+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Klee+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Kiwi+Maru:wght@300&display=swap');
+
+.retangulo{
+    position: absolute;
+    top: 21%;
+    left: 6.5%;
+}
+
+body{
+    background: #8B5F4A;
+}
+h1{
+    position: absolute;
+    right: 20%;
+    top: 20%;
+    font-family: 'kumar one', cursive;
+    color: #462b1c;
+}
+
+.txt{
+    position: absolute;
+    right: 16%;
+    top: 30%;
+    font-size: 25px;
+    font-family: 'Klee One', cursive;
+    color: white;
+    text-align: justify;
+}
+#bolo{
+    position: absolute;
+    top: 25%;
+    left: 8%;
+}
+
+#logo{
+    position: absolute;
+    top: 53.3%;
+    right: 27%;
+}
+
+#retangulo2{
+    position: absolute;
+    bottom: 10%;
+    right: 20%;
+}
+.compre{
+    position:absolute;
+    bottom: 9.5%;
+    right: 32%;
+    font-family: 'Kiwi Maru', serif;
+    color: white;
+}
